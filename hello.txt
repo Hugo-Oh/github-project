@@ -1,1 +1,6 @@
-bark : wangwnag
+git status 
+git branch -M main 
+git config --global user.name "Hugo" 
+git config --global user.email "hyok28@yonsei.ac.kr" 
+git remote 
+git remote add origin https://github.com/Hugo-Oh/github-project.git 
